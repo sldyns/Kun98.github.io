@@ -4,9 +4,9 @@ title                    : "Kun Qian"
 title_separator          : "-"
 name                    : "Kun Qian"
 description             : "Ph.D. Candidate at Peking University"
-url                     : "https://Kun98.github.io"
+url                     : "https://kun98.github.io"
 baseurl                 : "" 
-repository              : "sldyns/Kun98.github.io"
+repository              : "sldyns/kun98.github.io"
 
 # Site Author
 author:
