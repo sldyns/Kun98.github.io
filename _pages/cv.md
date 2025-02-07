@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. candidate in Statistics, Peking University, 2023-Present
+  * Research focus: Deep learning methods for single cell and spatial genomics data analysis
+  * Supervisor: Ruibin Xi
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.S. in Mathematics, China University of Geosciences (Wuhan), 2020-2023
+  * Research focus: Integration and clustering of scRNA-seq data
+  * Thesis: Research on Integration Analysis for Single-cell RNA Sequencing Data
+  * Supervisor: Hongwei Li
   
+* B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2016-2020
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * R
+  * MATLAB
 
-Publications
+* Statistical & Machine Learning
+  * Deep Learning
+  * Statistical Modeling
+  * Dimension Reduction
+  * Clustering Analysis
+
+* Bioinformatics
+  * Single-cell RNA-seq Analysis
+  * Spatial Transcriptomics Analysis
+  * Multi-omics Data Integration
+
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Chinese (Native)
+* English (Professional Working Proficiency)
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Best Paper Award at the RECOMB 2022 conference, 2022
+* National Scholarship for Postgraduate, 2022
+* First Prize in China Post-Graduate Mathematical Contest in Modeling, 2021
+
